@@ -1,1 +1,1 @@
-
+# USB cryptsetup keyscript
